@@ -8,7 +8,7 @@ Also Check out Hitesh Choudhary's GitHub: [github.com/hiteshchoudhary](https://g
 
 ## Project Descriptions
 
-1. **Project 1**: [Styling App](project1/) - This project mainly focuses on learning the basic components and creating basic UIs.
+1. **Project 1**: [Styling App](https://github.com/mayurmudoi/React-Native-Projects/tree/main/Project1) - This project mainly focuses on learning the basic components and creating basic UIs.
 
 <!-- Add more projects as needed -->
 
