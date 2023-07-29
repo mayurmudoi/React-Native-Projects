@@ -34,6 +34,6 @@ A big thank you to Hitesh Choudhary for sharing his knowledge and creating amazi
 
 ## Connect with Me
 
-If you have any questions or want to connect with me, you can find me on [LinkedIn](https://www.linkedin.com/in/mayurmudoi/) or [Twitter](https://twitter.com/MudoiMayur).
+If you want to connect with me, you can find me on [LinkedIn](https://www.linkedin.com/in/mayurmudoi/) or [Twitter](https://twitter.com/MudoiMayur).
 
 Let's learn and grow together! Happy coding! 🚀
