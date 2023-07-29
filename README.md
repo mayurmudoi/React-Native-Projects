@@ -22,9 +22,7 @@ List any prerequisites or software dependencies that users need to have installe
 
 ## Contributing
 
-If you would like to contribute to this project with your own implementations of Hitesh Choudhary's tutorials or improve existing projects, you are welcome to submit a pull request. Your contributions can inspire and help other learners.
-
-Please ensure your pull requests follow the repository's [contribution guidelines](CONTRIBUTING.md).
+Check out Hitesh Choudhary's [GitHub](https://github.com/hiteshchoudhary) and [open source contribution tutorial](https://youtu.be/XfREwe2sUGs) for contribution.
 
 ## License
 
