@@ -9,6 +9,7 @@ Also Check out Hitesh Choudhary's GitHub: [github.com/hiteshchoudhary](https://g
 ## Project Descriptions
 
 1. **Project 1**: [Styling App](Project1/) - This project mainly focuses on learning the basic components and creating basic UIs.
+2. **Project 2**: [Password Generator](Project2/) - This project helps a user to create a safe and complex passwords for their use.
 
 <!-- Add more projects as needed -->
 
