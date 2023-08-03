@@ -143,10 +143,10 @@ export default function App() {
                 </View>
 
                 <View style={styles.formActions}>
-                <TouchableOpacity
-                  disabled={!isValid}
-                  style={styles.primaryBtn}
-                  onPress={handleSubmit}
+                  <TouchableOpacity
+                    disabled={!isValid}
+                    style={styles.primaryBtn}
+                    onPress={handleSubmit}
                   >
                     <Text style={styles.primaryBtnTxt}>Generate Password</Text>
                   </TouchableOpacity>
