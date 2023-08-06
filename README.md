@@ -11,7 +11,7 @@ Also Check out Hitesh Choudhary's GitHub: [github.com/hiteshchoudhary](https://g
 1. **Project 1**: [Styling App](Project1/) - This project mainly focuses on learning the essential components and creating basic UIs.
 2. **Project 2**: [Password Generator](Project2/) - This project helps a user to create safe and complex passwords for their use.
 3. **Project 3**: [Background Color Changer](Project3/) - This project uses an elementary logic to change the background color and update it.
-4. **Project 4**: [Roll Dice](Project4/) 
+4. **Project 4**: [Roll Dice](Project4/) - It's a Rolling a Dice project which uses static images and heptic feedback.
 <!-- Add more projects as needed -->
 
 ## Getting Started
