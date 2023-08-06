@@ -10,6 +10,7 @@ Also Check out Hitesh Choudhary's GitHub: [github.com/hiteshchoudhary](https://g
 
 1. **Project 1**: [Styling App](Project1/) - This project mainly focuses on learning the basic components and creating basic UIs.
 2. **Project 2**: [Password Generator](Project2/) - This project helps a user to create a safe and complex passwords for their use.
+2. **Project 3**: [Background Color Changer](Project3/) - This project uses a very basic logic to change the background color and update it.
 
 <!-- Add more projects as needed -->
 
