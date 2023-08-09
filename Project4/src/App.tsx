@@ -36,7 +36,6 @@ const Dice = ({imageUrl}: DiceProps): JSX.Element =>{
 
 function App(): JSX.Element {
   const [diceImage, setDiceImage] = useState<ImageSourcePropType>(DiceOne)
-
   const rollDiceOnTap = () => {
     let randomNumber = Math.floor(Math.random()* 6) + 1;
 
