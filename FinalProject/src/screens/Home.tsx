@@ -3,13 +3,15 @@ import React,{useContext, useState, useEffect} from 'react';
 import { FAB } from '@rneui/themed';
 import Snackbar from 'react-native-snackbar';
 import {AppwriteContext} from '../appwrite/AppwriteContext'
-
+import { NativeStackScreenProps } from '@react-navigation/native-stack/lib/typescript/src/types';
+import { AppStackParamList } from '../routes/AppStack';
 type UserObj = {
   name: string;
   email: string;
 }
+type HomeScreenProps = NativeStackScreenProps<AppStackParamList, 'Home'>
 
-const Home = () => {
+const Home = ({navigation}:HomeScreenProps) => {
   const [userData, setUserData] = useState<UserObj>()
   const {appwrite, setIsLoggedIn} = useContext(AppwriteContext)
   const handleLogout = () => {
@@ -20,6 +22,7 @@ const Home = () => {
         text: 'Logout Successful',
         duration: Snackbar.LENGTH_SHORT
       })
+      navigation.navigate('Login')
     })
   }
 
